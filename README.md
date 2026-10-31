@@ -66,19 +66,20 @@ Other project libraries and tools: `bcryptjs`, `CORS`, `dotenv`, `Helmet`, `Morg
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Nexo Social Network](https://github.com/adrianomurilojr/rede-social-nexo) | A social platform with a separate web frontend and API. | Next.js, React, TypeScript, Tailwind CSS, Fastify, Prisma, Zod |
-| [MotoStock](https://github.com/adrianomurilojr/Controle-de-Estoque) | Inventory management for motorcycle parts and accessories. | TypeScript, Express, Prisma, PostgreSQL, REST API |
-| [MotoStock 2.0](https://github.com/adrianomurilojr/MotoStock-2.0) | A modern inventory-management frontend. | Next.js, React, TypeScript, Tailwind CSS |
-| [Motorcycle Marketplace](https://github.com/adrianomurilojr/venda-de-motos) | A responsive platform connecting motorcycle buyers and sellers. | Next.js, React, JavaScript, Tailwind CSS, Motion |
-| [Event Check-in API](https://github.com/adrianomurilojr/pass-in) | Event registration and attendee check-in API. | Node.js, TypeScript, Fastify, Prisma, Zod |
+| [Inventory Management System](https://github.com/adrianomurilojr/gerenciamento-de-estoque) | A prototype inventory-management system for businesses. | Next.js, React, TypeScript, Tailwind CSS, Recharts |
 | [Dam Monitoring Dashboard](https://github.com/adrianomurilojr/monitoramento-barragem-civil) | A dashboard concept for monitoring dam instrumentation. | Next.js, React, TypeScript, Tailwind CSS, Recharts |
+| [Motorcycle Workshop Scheduler](https://github.com/adrianomurilojr/agendamentos-para-motos) | An API for scheduling motorcycle repairs. | Node.js, TypeScript, Fastify, Prisma, JWT, Zod |
+| [Motorcycle Marketplace](https://github.com/adrianomurilojr/venda-de-motos) | A responsive platform connecting motorcycle buyers and sellers. | Next.js, React, JavaScript, Tailwind CSS, Motion |
+| [Nexo Social Network](https://github.com/adrianomurilojr/rede-social-nexo) | A social platform with a separate web frontend and API. | Next.js, React, TypeScript, Tailwind CSS, Fastify, Prisma, Zod |
+| [MotoStock 2.0](https://github.com/adrianomurilojr/MotoStock-2.0) | A modern inventory-management frontend. | Next.js, React, TypeScript, Tailwind CSS |
+| [MotoStock](https://github.com/adrianomurilojr/Controle-de-Estoque) | Inventory management for motorcycle parts and accessories. | TypeScript, Express, Prisma, PostgreSQL, REST API |
+| [Event Check-in API](https://github.com/adrianomurilojr/pass-in) | Event registration and attendee check-in API. | Node.js, TypeScript, Fastify, Prisma, Zod |
 
 ## GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianomurilojr&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomurilojr&layout=compact&hide_border=true&theme=transparent)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=adrianomurilojr&hide_border=true&theme=transparent)
 
 </div>
 
