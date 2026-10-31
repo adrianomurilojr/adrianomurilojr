@@ -22,12 +22,11 @@ I build web applications from responsive user interfaces to backend APIs. My pro
 ### Languages
 
 <!-- START_SECTION:languages -->
-<p>
 ![HTML](https://img.shields.io/badge/HTML-39.1%25-3178C6?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-36.1%25-3178C6?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-18.5%25-3178C6?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6.3%25-3178C6?style=for-the-badge)
-</p>
+
 <sub>Automatically generated from 23 public, non-fork repositories.</sub>
 <!-- END_SECTION:languages -->
 

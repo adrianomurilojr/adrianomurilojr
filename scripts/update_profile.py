@@ -114,9 +114,9 @@ def update_readme(badges: str, repository_count: int) -> None:
         raise RuntimeError("README language section markers are out of order.")
 
     generated = (
-        "\n<p>\n"
+        "\n\n"
         f"{badges}\n"
-        "</p>\n"
+        "\n"
         f"<sub>Automatically generated from {repository_count} public, "
         "non-fork repositories.</sub>\n"
     )
