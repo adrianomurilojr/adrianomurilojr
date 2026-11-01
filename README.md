@@ -23,11 +23,11 @@ I build web applications from responsive user interfaces to backend APIs. My pro
 
 <!-- START_SECTION:languages -->
 
-![TypeScript](https://img.shields.io/badge/TypeScript-37.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-37.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-17.9%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-37.6%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-37.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-17.7%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-0.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <sub>Automatically generated from 24 public, non-fork repositories.</sub>
 <!-- END_SECTION:languages -->
