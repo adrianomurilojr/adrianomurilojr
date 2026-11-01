@@ -1,15 +1,22 @@
-name: Update profile languages
+name: Update profile stack
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/**"
+      - ".github/workflows/update-profile.yml"
   schedule:
-    - cron: "23 6 * * 1"
+    - cron: "23 6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-languages:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Check out profile repository
@@ -20,7 +27,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update language badges
+      - name: Update languages and technology badges
         run: python scripts/update_profile.py
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -36,5 +43,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update profile languages"
+          git commit -m "chore: update profile stack"
           git push

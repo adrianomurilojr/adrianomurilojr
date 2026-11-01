@@ -22,45 +22,38 @@ I build web applications from responsive user interfaces to backend APIs. My pro
 ### Languages
 
 <!-- START_SECTION:languages -->
-![HTML](https://img.shields.io/badge/HTML-39.1%25-3178C6?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-36.1%25-3178C6?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-18.5%25-3178C6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-6.3%25-3178C6?style=for-the-badge)
 
-<sub>Automatically generated from 23 public, non-fork repositories.</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-37.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-37.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-17.9%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<sub>Automatically generated from 24 public, non-fork repositories.</sub>
 <!-- END_SECTION:languages -->
+
+### Frameworks, libraries & tooling
+
+<!-- START_SECTION:technologies -->
+
+### Backend & data
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend, data & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Libraries & tooling
 
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
-![Motion](https://img.shields.io/badge/Motion-FFFFFF?style=flat-square&logo=framer&logoColor=0055FF)
-![Lucide](https://img.shields.io/badge/Lucide-FF6B6B?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PDFKit](https://img.shields.io/badge/PDFKit-B40B0B?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735?style=flat-square&logo=autoprefixer&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-003A70?style=flat-square) ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) ![tsx](https://img.shields.io/badge/tsx-3178C6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Other project libraries and tools: `bcryptjs`, `CORS`, `dotenv`, `Helmet`, `Morgan`, `Multer`, `Fastify Type Provider Zod`, `PostCSS`, `Autoprefixer`, `ESLint`, `tsx`, `Chalk`, `Inquirer`, and `Live Server`.
+### Other dependencies
+
+![chalk](https://img.shields.io/badge/chalk-64748B?style=flat-square) ![eslint-config-next](https://img.shields.io/badge/eslint-config-next-64748B?style=flat-square) ![expo](https://img.shields.io/badge/expo-64748B?style=flat-square) ![expo-status-bar](https://img.shields.io/badge/expo-status-bar-64748B?style=flat-square) ![inquirer](https://img.shields.io/badge/inquirer-64748B?style=flat-square) ![react-dom](https://img.shields.io/badge/react-dom-64748B?style=flat-square) ![react-native](https://img.shields.io/badge/react-native-64748B?style=flat-square) ![react-native-web](https://img.shields.io/badge/react-native-web-64748B?style=flat-square)
+<!-- END_SECTION:technologies -->
+
+<sub>Automatically detected from root package.json files in public repositories and refreshed daily; unknown packages use text-only badges to avoid broken icons.</sub>
 
 ## Selected projects
 
