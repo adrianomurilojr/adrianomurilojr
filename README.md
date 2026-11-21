@@ -23,13 +23,13 @@ I build web applications from responsive user interfaces to backend APIs. My pro
 
 <!-- START_SECTION:languages -->
 
-![TypeScript](https://img.shields.io/badge/TypeScript-37.6%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-37.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-17.7%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-38.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-36.8%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-17.5%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5.9%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-1.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<sub>Automatically generated from 24 public, non-fork repositories.</sub>
+<sub>Automatically generated from 25 public, non-fork repositories.</sub>
 <!-- END_SECTION:languages -->
 
 ### Frameworks, libraries & tooling
@@ -46,11 +46,11 @@ I build web applications from responsive user interfaces to backend APIs. My pro
 
 ### Libraries & tooling
 
-![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735?style=flat-square&logo=autoprefixer&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-003A70?style=flat-square) ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) ![tsx](https://img.shields.io/badge/tsx-3178C6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735?style=flat-square&logo=autoprefixer&logoColor=white) ![bcryptjs](https://img.shields.io/badge/bcryptjs-003A70?style=flat-square) ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) ![tsx](https://img.shields.io/badge/tsx-3178C6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ### Other dependencies
 
-![chalk](https://img.shields.io/badge/chalk-64748B?style=flat-square) ![eslint-config-next](https://img.shields.io/badge/eslint-config-next-64748B?style=flat-square) ![expo](https://img.shields.io/badge/expo-64748B?style=flat-square) ![expo-status-bar](https://img.shields.io/badge/expo-status-bar-64748B?style=flat-square) ![inquirer](https://img.shields.io/badge/inquirer-64748B?style=flat-square) ![react-dom](https://img.shields.io/badge/react-dom-64748B?style=flat-square) ![react-native](https://img.shields.io/badge/react-native-64748B?style=flat-square) ![react-native-web](https://img.shields.io/badge/react-native-web-64748B?style=flat-square)
+![chalk](https://img.shields.io/badge/chalk-64748B?style=flat-square) ![concurrently](https://img.shields.io/badge/concurrently-64748B?style=flat-square) ![eslint-config-next](https://img.shields.io/badge/eslint-config-next-64748B?style=flat-square) ![expo](https://img.shields.io/badge/expo-64748B?style=flat-square) ![expo-status-bar](https://img.shields.io/badge/expo-status-bar-64748B?style=flat-square) ![inquirer](https://img.shields.io/badge/inquirer-64748B?style=flat-square) ![react-dom](https://img.shields.io/badge/react-dom-64748B?style=flat-square) ![react-native](https://img.shields.io/badge/react-native-64748B?style=flat-square) ![react-native-web](https://img.shields.io/badge/react-native-web-64748B?style=flat-square)
 <!-- END_SECTION:technologies -->
 
 <sub>Automatically detected from root package.json files in public repositories and refreshed daily; unknown packages use text-only badges to avoid broken icons.</sub>
